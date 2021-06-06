@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aletheia094
+- 👀 I’m interested in cybersecurity, machine learning, number theory, group theory, basketball, and reading.
+- 🌱 I’m currently learning linear algebra, intro computer sciense, and much more math
+- 💞️ I’m looking to collaborate on cool projects for beginner computer scientists, especially ones that involve a lot of math.
+- 📫 How to reach me: my email is rhea_goyal@brown.edu!
